@@ -15,7 +15,7 @@ Buckle up and embrace the extraordinary! 🚀
 
 <p align="left">
    <a href="https://twitter.com/ajimal_harmeet" alt="Twitter"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png"></a>
-   <a href="https://www.linkedin.com/in/harmeetsinghjsr/" alt="Linkedin"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png"></a>
+   <a href="https://www.linkedin.com/in/harmeetajimaljsr/" alt="Linkedin"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png"></a>
 </p>
 <!---
 harmeetsinghjsr/harmeetsinghjsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
