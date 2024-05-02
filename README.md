@@ -17,6 +17,8 @@ Buckle up and embrace the extraordinary! 🚀
    <a href="https://twitter.com/ajimal_harmeet" alt="Twitter"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png"></a>
    <a href="https://www.linkedin.com/in/harmeetajimaljsr/" alt="Linkedin"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png"></a>
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harmeetsinghjsr" alt="GitHub Streak" /></a>
 <!---
 harmeetsinghjsr/harmeetsinghjsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
