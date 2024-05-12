@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harmeet Singh !👋" alt="Typing SVG" />
 </h1>
 
-### 🌟 Harmeet, the Cosmic Innovator from Jamshedpur 🇮🇳
+<h2 align="center" style="font-weight: 28px;">
+ 🌟 Harmeet, the Cosmic Innovator from Jamshedpur 🇮🇳
+</h2>
 
 Blazing new trails in the digital frontier! I'm on a mission to revolutionize the web experience with the Cloud Browser 🚀 and tackle the escalating space debris crisis through cutting-edge technological solutions. 🛰️
 
@@ -68,7 +70,7 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 <h2 align="center">⚡Github Stats ⚡</h2>
 <div align=center>
 
-<a href="https://git.io/streak-stats"><img align="centre" src="https://streak-stats.demolab.com?user=harmeetsinghjsr" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="centre" src="https://streak-stats.demolab.com?user=harmeetsinghjsr&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <br>
 <br>
 
@@ -76,14 +78,11 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harmeetsinghjsr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harmeetsinghjsr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  /><br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=harmeetsinghjsr&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harmeetsinghjsr&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
 <br>
-<h2 align="center">🐍 See the SNAKE eat my Github Contribution Graph 🐍 !! </h2>
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🐍 SNAKE Eating my ;+ Github contribution Graph !!.." alt="Typing SVG" />
-</h1>
 <img src="https://raw.githubusercontent.com/harmeetsinghjsr/harmeetsinghjsr/output/snake.svg" alt="Snake animation" />
 
 <h2 align="center"> </h2>
