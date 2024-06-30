@@ -78,6 +78,7 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 <br>
 
 
+
 <a href="https://github.com/harmeetsinghjsr?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=harmeetsinghjsr&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="harmeet's github-readme-streak-stats"/></a>
 
 <a href="https://github.com/harmeetsinghjsr?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=harmeetsinghjsr&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="harmeet's github-readme-stats"/></a>
@@ -94,7 +95,7 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=harmeetsinghjsr&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-
+</div>
 <br>
 <br>
 <br>
@@ -106,7 +107,6 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 <!--
 <a href="https://git.io/streak-stats"><img align="centre" src="https://streak-stats.demolab.com?user=harmeetsinghjsr&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <br>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harmeetsinghjsr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br><br>
 <a href="https://wakatime.com/@harmeetsinghjsr"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=harmeetsinghjsr&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harmeetsinghjsr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  /><br>
@@ -119,11 +119,13 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 
 
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🐍 SNAKE Eating my ;+ Github contribution Graph !!.." alt="Typing SVG" />
+<div align=center>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🐍 SNAKE Eating my ;+ Github contribution Graph !!.." alt="Typing SVG" /></h2>
+    
 <img src="https://raw.githubusercontent.com/harmeetsinghjsr/harmeetsinghjsr/output/snake.svg" alt="Snake animation" />
 
 <h2 align="center"> </h2>
+<br>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
