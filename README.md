@@ -1,7 +1,8 @@
-<h1 align="center">
-<!--     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harmeet Singh !👋" /> -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+👋;+I'm+Harmeet Singh !👋" alt="Typing SVG" /></a>
-</h1>
+
+<p align="center">
+  <img src="https://github.com/harmeetsinghjsr/harmeetsinghjsr/blob/main/assets/typing.svg?raw=true" alt="Typing SVG" />
+</p>
+
 
 
 ![](https://komarev.com/ghpvc/?username=harmeetsinghjsr&color=blue)<br>
@@ -121,11 +122,13 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 
 
 <div align=center>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🐍 SNAKE Eating my ;+ Github contribution Graph !!.." alt="Typing SVG" /></h2>
-    
-<img src="https://raw.githubusercontent.com/harmeetsinghjsr/harmeetsinghjsr/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github.com/harmeetsinghjsr/harmeetsinghjsr/blob/main/assets/snake-heading.svg?raw=true" alt="Snake Typing SVG" />
+</p>
 
-<h2 align="center"> </h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harmeetsinghjsr/harmeetsinghjsr/output/snake.svg" alt="Snake animation" />
+</p>
 <br>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
