@@ -34,12 +34,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -70,17 +70,17 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/harmeetajimaljsr/" target="_blank">
+    <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
+  </a>
   <a href="https://www.youtube.com/channel/UC7rg4Viy8lWOKyGJ8QvzFiQ" target="_blank">
     <img height="45" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png" alt="YouTube"/>
   </a>
   <a href="mailto:hs978698@gmail.com" target="_blank">
     <img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/ajimal_harmeet" target="_blank">
+  <a href="https://x.com/sarcasticosmos" target="_blank">
     <img height="50" width="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harmeetajimaljsr/" target="_blank">
-    <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@sarcastic07" target="_blank">
     <img height="50" width="50" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="Medium"/>
