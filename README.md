@@ -51,22 +51,41 @@
 
 <!-- Pinned Projects (add your best below!) -->
 <h3 align="center">📌 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/harmeetsinghjsr/Rakshak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmeetsinghjsr&repo=Rakshak&theme=gotham" />
-  </a>
-  <a href="https://github.com/harmeetsinghjsr/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmeetsinghjsr&repo=Portfolio&theme=gotham" />
-  </a>
-  <a href="https://github.com/harmeetsinghjsr/Tech-Titians">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmeetsinghjsr&repo=Tech-Titians&theme=gotham" />
-  </a>
-  <a href="https://github.com/harmeetsinghjsr/BSTV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmeetsinghjsr&repo=BSTV&theme=gotham" />
-  </a>
-</p>
-<p align="center">
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/harmeetsinghjsr/Rakshak">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmeetsinghjsr&repo=Rakshak&theme=gotham" />
+      </a>
+      <br>
+      <i>🛡️ Women Safety Application featuring emergency SOS</i>
+    </td>
+    <td align="center">
+      <a href="https://github.com/harmeetsinghjsr/Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmeetsinghjsr&repo=Portfolio&theme=gotham" />
+      </a>
+      <br>
+      <i>🌐 Personal developer portfolio with a modern UI.</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/harmeetsinghjsr/Tech-Titians">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmeetsinghjsr&repo=Tech-Titians&theme=gotham" />
+      </a>
+      <br>
+      <i>🤖 Innovative solutions for Spam Email Detection with GUI.</i>
+    </td>
+    <td align="center">
+      <a href="https://github.com/harmeetsinghjsr/BSTV">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmeetsinghjsr&repo=BSTV&theme=gotham" />
+      </a>
+      <br>
+      <i>📺 Binary Search Tree Visualization</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
