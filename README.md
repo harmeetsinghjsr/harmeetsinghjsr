@@ -126,6 +126,18 @@
 
 ---
 
+<!-- Snake SVG Section -->
+<p align="center">
+  <img src="https://github.com/harmeetsinghjsr/harmeetsinghjsr/blob/main/assets/snake-heading.svg?raw=true" alt="Snake Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harmeetsinghjsr/harmeetsinghjsr/output/snake.svg" alt="Snake animation" />
+</p>
+
+
+---
+
 <!-- Footer SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)" alt="Thanks Typing SVG" />
